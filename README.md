@@ -24,6 +24,16 @@ Este proyecto es un dashboard administrativo moderno para un sistema de gestión
 - **Responsivo**: Adaptable a escritorio, tablet y móvil
 - **Accesible**: Uso de roles ARIA y contraste adecuado
 - **Interactivo**: Efectos hover, sidebar colapsable y más
+## Vistas
+
+### Escritorio
+![Vista de escritorio](Dashboard.png)
+
+### Tablet
+![Vista de tablet](Tablet.png)
+
+### Móvil
+![Vista móvil](Movil.png)
 
 
 ## Decisiones de diseño
@@ -36,5 +46,6 @@ Este proyecto es un dashboard administrativo moderno para un sistema de gestión
    - Roles ARIA para navegación
    - Etiquetas descriptivas para iconos
    - Navegación por teclado compatible
+
 
 
