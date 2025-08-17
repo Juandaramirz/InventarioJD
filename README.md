@@ -30,10 +30,10 @@ Este proyecto es un dashboard administrativo moderno para un sistema de gestión
 ![Vista de escritorio](Dashboard.png)
 
 ### Tablet
-![Vista de tablet](Tablet.png)
+![Vista de tablet](Tablet.jpg)
 
 ### Móvil
-![Vista móvil](Movil.png)
+![Vista móvil](Movil.jpg)
 
 
 ## Decisiones de diseño
@@ -46,6 +46,7 @@ Este proyecto es un dashboard administrativo moderno para un sistema de gestión
    - Roles ARIA para navegación
    - Etiquetas descriptivas para iconos
    - Navegación por teclado compatible
+
 
 
 
