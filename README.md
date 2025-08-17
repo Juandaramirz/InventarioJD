@@ -1,5 +1,6 @@
 # Dashboard Administrativo - Sistema de Gestión de Inventario
 
+![Vista previa del dashboard](Dashboard.png)
 
 ## Descripción
 
@@ -35,4 +36,5 @@ Este proyecto es un dashboard administrativo moderno para un sistema de gestión
    - Roles ARIA para navegación
    - Etiquetas descriptivas para iconos
    - Navegación por teclado compatible
+
 
