@@ -48,5 +48,9 @@ Este proyecto es un dashboard administrativo moderno para un sistema de gestión
    - Navegación por teclado compatible
 
 
+## Link del sitio
+
+https://juandaramirz.github.io/InventarioJD/
+
 
 
